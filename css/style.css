@@ -48,3 +48,49 @@
 {
 
 }
+/* ***************************** */
+.header-section
+{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    height: 70px;
+    background-color: #eeeeee;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+.logo
+{
+    width: 20%;
+}
+.logo h1
+{
+    text-align: center;
+}
+.nav
+{
+    width: 50%;
+}
+.nav ul
+{
+    display: flex;
+    justify-content: space-around;
+}
+.nav ul li
+{
+
+}
+.nav ul li a
+{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.social-icon
+{
+    width: 30%;
+}
+.social-icon i
+{
+    padding-left: 10px;
+}
