@@ -19,3 +19,32 @@
     background-color: lightblue;
     border: 5px solid skyblue;
 }
+
+.food-container
+{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap:wrap;
+}
+.food-item
+{
+    height: 220px;
+    margin: 20px;
+    width: 180px;
+    border: 5px solid gray;
+    padding: 5px;
+}
+.food-item img
+{
+    height: 180px;
+    width: 100%;
+}
+.food-item h4
+{
+
+}
+.food-item h6
+{
+
+}
